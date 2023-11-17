@@ -6,14 +6,9 @@ Here are some of the things we built!
 - 🍋https://github.com/melvinJD/bc15-w8-projects_week-the_byte_stripes-frontend A midterm project where we solved bootcamper networking issues, that allowed events and meetups to be organised within a simple app.
 - 🍋 https://github.com/SchoolOfCode/project-pineapples A Next.js learning based website that demonstrates the capabilties of Next.js
 
-🍋 
 
-## You can me find here…
-
-![image](https://github.com/melvinJD/MelvinJD/assets/114363341/5bfd0c2a-3c3d-46d3-841a-e57ce8c0c412)
+## You can me find here…when I'm not in the garden 🍋 
 
 [www.linkedin.com/in/melissa-baker-a90482274](http://www.linkedin.com/in/melissa-baker-a90482274)
-
-![image](https://github.com/melvinJD/MelvinJD/assets/114363341/1e6809ec-2fe1-43da-bc85-6baced91b4df)
 
 @witcodemel
