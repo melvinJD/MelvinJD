@@ -1,5 +1,5 @@
 ### Hey Duck 🦆-
-![image](https://github.com/melvinJD/MelvinJD/assets/114363341/1998b0e7-2eab-45fa-9fd8-a42ec664f4cc)
+![image](https://github.com/melvinJD/MelvinJD/assets/)
 I am a full stack developer, with a passion for beautiful front end design. Design that is accessible and designed with the user in mind. 
 I am a School Of Code 🎓 (Cohort 15) bootcamper, working on various different team projects, while learning and building my tech stack!
 Here are some of the things we built!
