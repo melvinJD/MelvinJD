@@ -1,5 +1,6 @@
 ### 
 <img src='/Ivory Black Minimalist Name Business Consultant LinkedIn Banner (2).png'></img>
+
 **Hey Duck 🦆-**
 
 I am a full stack developer, with a passion for beautiful front end design. Design that is accessible and designed with the user in mind. 
