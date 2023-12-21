@@ -1,5 +1,6 @@
 ### Hey Duck 🦆-
 <img src='/Ivory Black Minimalist Name Business Consultant LinkedIn Banner (2).png'></img>
+Hey Duck 🦆-
 I am a full stack developer, with a passion for beautiful front end design. Design that is accessible and designed with the user in mind. 
 I am a School Of Code 🎓 (Cohort 15) bootcamper, working on various different team projects, while learning and building my tech stack!
 Here are some of the things we built!
