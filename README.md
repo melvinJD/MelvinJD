@@ -15,5 +15,5 @@ Here are some of the things we built!
 [www.linkedin.com/in/melissa-baker-a90482274](http://www.linkedin.com/in/melissa-baker-a90482274)
 
 @witcodemel
-![Codewars](https://github.r2v.ch/codewars?user=MELVINJD&stroke=YELLOW)
+![Codewars](https://github.r2v.ch/codewars?user=melvinjd&stroke=yellow)
 
